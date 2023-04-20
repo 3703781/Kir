@@ -1,0 +1,6 @@
+1. basic environments for machine/deep learning：[deploy.md](deploy.md)
+2. `numpy` basics: [numpy.ipynb](numpy.ipynb)
+3. `pandas` basics: [pandas.ipynb](pandas.ipynb)
+4. `scikit-learn` tutorial: [sklearn.ipynb](sklearn.ipynb)
+5. `pytorch` tutorial: [pytorch.ipynb](pytorch.ipynb)
+6. classification task with `pytorch` : [class.ipynb](class.ipynb)
